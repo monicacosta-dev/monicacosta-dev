@@ -4,7 +4,7 @@
 
 ## Olá, Eu sou Mônica Costa!
  
-:file_folder: Eu sou Entusiasta a DBA!
+:file_folder: Eu sou formada em Análista de Sistema e uma  Entusiasta a DBA!
 
 :desktop_computer: Eu estudande de Front End e Back End!
 
