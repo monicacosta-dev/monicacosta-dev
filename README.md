@@ -36,11 +36,3 @@
 ![ BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![ MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-----------------------------------------------------------------------------------
-
-![monicacosta-dev GitHub stats](https://github-readme-stats.vercel.app/api?username=monicacosta-dev&show_icons=true&theme=radical)
-
-
-
-
-
