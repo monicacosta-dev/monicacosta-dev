@@ -10,8 +10,6 @@
 
 :houses: Eu sou Brasileira.
 
-:books: :pencil2: Atualmente estou aprendendo tudo.
-
 :compass: Metas 2022: Criar novos projetos, e encontrar novo emprego.
 
 ## Sobre mim
