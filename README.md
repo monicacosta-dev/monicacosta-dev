@@ -1,8 +1,8 @@
+
 # Seja bem vindo(a), ao meu repositorio! :sparkler:
 
- 
 
-## Olá, Eu sou Mônica Costa!
+## Olá! Eu sou Mônica Costa!
  
 📁 Eu sou Mônica Costa, apaixonada por tecnólogia, em conhecimento constânte;
 
