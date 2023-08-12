@@ -4,7 +4,7 @@
 
 ## Olá! Eu sou Mônica Costa!
  
-📁 Eu sou Mônica Costa, apaixonada por tecnólogia, em conhecimento constânte;
+📁Apaixonada por tecnólogia, em conhecimento constante;
 
 🖥️Formada em Análista de Sistema - , uma ntusiasta a DBA;
 
