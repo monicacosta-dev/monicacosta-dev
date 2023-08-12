@@ -1,7 +1,6 @@
 
 # Seja bem vindo(a), ao meu repositorio! :sparkler:
 
-
 ## Olá! Eu sou Mônica Costa!
  
 📁Apaixonada por tecnólogia, em conhecimento constante;
