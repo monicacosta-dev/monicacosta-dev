@@ -4,21 +4,21 @@
 
 ## Olá, Eu sou Mônica Costa!
  
-:file_folder: Eu sou formada em Análista de Sistema e uma  Entusiasta a DBA!
+📁 Eu sou Mônica Costa, apaixonada por tecnólogia, em conhecimento constânte;
 
-:desktop_computer: Eu estudande de Front End e Back End!
+🖥️Formada em Análista de Sistema - , uma ntusiasta a DBA;
 
-:houses: Eu sou Brasileira.
+🏘️ Brasileira, nascidada em Goiânia-Go;
 
-:compass: Metas 2022: Criar novos projetos, e encontrar novo emprego.
+🏃‍♀️ Paixões: caminhar ouvindo musica, assistir series e filmes!
 
-## Sobre mim
+## Redes
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/monicacosta-dev)](https://github.com/monicacosta-dev)
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://wkedin.com/in/monica-costa-5572a929/)](https://www.linkedin.com/in/monica-costa-5572a929/)
 
-- Obrigado pela visita!
+- Seja bem vido!!!
 
  :sunglasses:
 
